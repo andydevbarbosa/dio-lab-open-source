@@ -1,4 +1,7 @@
 # AndyDevBarbosa
+Olá! Me chamo Anderson Barbosa, nascido e criado na cidade de São Paulo, amante de jogos eletrônicos e cards games. Estou muito entusiasmado em aprender e também poder compatilhar meu ensinamentos com que quiser desenvolver-se também!!!
+
+Estou migrando para esta área que venho me apaixonando a cada dia mais e mais... 
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-barbosa-almeida-450198167/)
